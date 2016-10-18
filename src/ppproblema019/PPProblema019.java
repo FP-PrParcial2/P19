@@ -19,7 +19,7 @@ public class PPProblema019 {
         double a;
         Scanner n = new Scanner(System.in);
         try {
-            System.out.print("Introduce un ángulo de (0...360°): ");
+            System.out.print("Introduce un ángulo de (0 a 360°): ");
             a = n.nextDouble();
             anguloCal(a);
         } catch (Exception e) {
