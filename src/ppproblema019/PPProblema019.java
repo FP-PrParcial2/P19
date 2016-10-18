@@ -29,9 +29,9 @@ public class PPProblema019 {
     static void anguloCal(double a){
         //Primer punto, pasa "a" a radianes.
         double b = Math.toRadians(a);
-        System.out.println("Seno de " + a + " es: " + Math.sin(b) );
-        System.out.println("Coseno de " + a + " es: " + Math.cos(b) );
-        System.out.println("Tangente de " + a + " es: " + Math.tan(b) );
+        System.out.println("El Seno de " + a + " es: " + Math.sin(b) );
+        System.out.println("El Coseno de " + a + " es: " + Math.cos(b) );
+        System.out.println("El Tangente de " + a + " es: " + Math.tan(b) );
     }
 }
         
